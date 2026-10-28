@@ -1,19 +1,19 @@
 {
-  "version": "1.0.30",
+  "version": "1.0.35",
   "build": 2158,
   "notes": "修复：设置里的「抢先体验新版本」开关无法保存（新增设置未加入本地配置白名单，报的是存储错误但实际与磁盘无关）。",
   "android": {
-    "version": "1.0.30",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.30/guoyuan-android.apk",
+    "version": "1.0.35",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35/guoyuan-android.apk",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.30/guoyuan-android.apk",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35/guoyuan-android.apk",
       "https://update.kshao.com/releases/guoyuan-android.apk",
       "https://update.851224.xyz:8443/releases/guoyuan-android.apk"
     ],
-    "name": "zhenguojian-1.0.30+2165-arm64-v8a.apk",
-    "size": 35825950,
-    "sha256": "a0b662b8d7b77172b21e06425405cc21f72c246a71b4391f1c275c251dac185e",
-    "notes": "野果取流修复；帝果/黄果视频/皮果 标记维护中"
+    "name": "zhenguojian-1.0.35+2175-arm64-v8a.apk",
+    "size": 35856986,
+    "sha256": "1ee2997d03505fb25d91dcba1bd0e4f29408f29115d116f5a1a8e05e97b63028",
+    "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
   },
   "windows": {
     "version": "1.0.50",
@@ -40,19 +40,6 @@
       "name": "guoyuan-windows-beta.exe",
       "size": 68986468,
       "sha256": "2418935d84c638673cb4056ac2dca2b1d6ed67884a0495fa1c93547c1703e41e",
-      "notes": "修复花魁首次登录死锁，花魁可正常加载"
-    },
-    "android": {
-      "version": "1.0.35",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35-beta/guoyuan-android.apk",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35-beta/guoyuan-android.apk",
-        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
-        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
-      ],
-      "name": "guoyuan-android-beta.apk",
-      "size": 35856986,
-      "sha256": "1ee2997d03505fb25d91dcba1bd0e4f29408f29115d116f5a1a8e05e97b63028",
       "notes": "修复花魁首次登录死锁，花魁可正常加载"
     }
   }
