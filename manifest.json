@@ -43,17 +43,17 @@
       "notes": "花魁改为经 VPS 中转，修复国内直连 CloudFront 超时"
     },
     "android": {
-      "version": "1.0.33",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.33-beta/guoyuan-android.apk",
+      "version": "1.0.34",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.34-beta/guoyuan-android.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.33-beta/guoyuan-android.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.34-beta/guoyuan-android.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35852498,
-      "sha256": "d31eff417490e7398320af8dd416ffbaea0c58a95b5b7cda2ee48c6d561b7271",
-      "notes": "花魁改为经 VPS 中转，修复国内直连 CloudFront 超时"
+      "size": 35856926,
+      "sha256": "1031a4e7f206ff66e80094227b42ecac31f7e4a3adec42ebff4e13477b4cc72c",
+      "notes": "新增按站源代理；花魁失败显示具体主机原因；移除 VPS 中转"
     }
   }
 }
