@@ -30,17 +30,17 @@
   },
   "beta": {
     "windows": {
-      "version": "1.0.54",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.54-beta/guoyuan-windows.exe",
+      "version": "1.0.55",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55-beta/guoyuan-windows.exe",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.54-beta/guoyuan-windows.exe",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55-beta/guoyuan-windows.exe",
         "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
         "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
       ],
       "name": "guoyuan-windows-beta.exe",
-      "size": 68995440,
-      "sha256": "824d46d04d685fc9666f25ec184f9fd5d502769e67f60826a0a32a963050f489",
-      "notes": "新增按站源代理；花魁失败显示具体主机原因；移除 VPS 中转"
+      "size": 68986468,
+      "sha256": "2418935d84c638673cb4056ac2dca2b1d6ed67884a0495fa1c93547c1703e41e",
+      "notes": "修复花魁首次登录死锁，花魁可正常加载"
     },
     "android": {
       "version": "1.0.34",
