@@ -1,0 +1,59 @@
+{
+  "version": "1.0.30",
+  "build": 2158,
+  "notes": "修复：设置里的「抢先体验新版本」开关无法保存（新增设置未加入本地配置白名单，报的是存储错误但实际与磁盘无关）。",
+  "android": {
+    "version": "1.0.30",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.30/guoyuan-android.apk",
+    "urls": [
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.30/guoyuan-android.apk",
+      "https://update.kshao.com/releases/guoyuan-android.apk",
+      "https://update.851224.xyz:8443/releases/guoyuan-android.apk"
+    ],
+    "name": "zhenguojian-1.0.30+2165-arm64-v8a.apk",
+    "size": 35825950,
+    "sha256": "a0b662b8d7b77172b21e06425405cc21f72c246a71b4391f1c275c251dac185e",
+    "notes": "野果取流修复；帝果/黄果视频/皮果 标记维护中"
+  },
+  "windows": {
+    "version": "1.0.50",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.50/guoyuan-windows.exe",
+    "urls": [
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.50/guoyuan-windows.exe",
+      "https://update.kshao.com/releases/guoyuan-windows.exe",
+      "https://update.851224.xyz:8443/releases/guoyuan-windows.exe"
+    ],
+    "name": "大王果园-1.0.50-windows-x64-setup.exe",
+    "size": 68974561,
+    "sha256": "e591dd8d62aeff86df4ecdc724a8356330f2dd8788d527a6a6025a9c28dd48e7",
+    "notes": "野果取流修复（新线路自动发现+接口实测）；帝果/黄果视频/皮果 标记维护中"
+  },
+  "beta": {
+    "windows": {
+      "version": "1.0.51",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.51-beta/guoyuan-windows.exe",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.51-beta/guoyuan-windows.exe",
+        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
+        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
+      ],
+      "name": "guoyuan-windows-beta.exe",
+      "size": 68987868,
+      "sha256": "c6fb1ee539fbfe2dd602a4a24b8cf3092521c46b787f475a71b525d2bcd863b9",
+      "notes": "新增站源：赤果（chiguoai.com App 接口）"
+    },
+    "android": {
+      "version": "1.0.31",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.31-beta/guoyuan-android.apk",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.31-beta/guoyuan-android.apk",
+        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
+        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
+      ],
+      "name": "guoyuan-android-beta.apk",
+      "size": 35839318,
+      "sha256": "d2a53a23a5858f81c79c3e3725ddc0f6a57a72d10e897b0a9c1233aa4bfac0ae",
+      "notes": "新增站源：赤果（chiguoai.com App 接口）"
+    }
+  }
+}
