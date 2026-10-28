@@ -43,17 +43,17 @@
       "notes": "修复花魁首次登录死锁，花魁可正常加载"
     },
     "android": {
-      "version": "1.0.34",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.34-beta/guoyuan-android.apk",
+      "version": "1.0.35",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35-beta/guoyuan-android.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.34-beta/guoyuan-android.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35-beta/guoyuan-android.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35856926,
-      "sha256": "1031a4e7f206ff66e80094227b42ecac31f7e4a3adec42ebff4e13477b4cc72c",
-      "notes": "新增按站源代理；花魁失败显示具体主机原因；移除 VPS 中转"
+      "size": 35856986,
+      "sha256": "1ee2997d03505fb25d91dcba1bd0e4f29408f29115d116f5a1a8e05e97b63028",
+      "notes": "修复花魁首次登录死锁，花魁可正常加载"
     }
   }
 }
