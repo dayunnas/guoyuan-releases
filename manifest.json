@@ -30,17 +30,17 @@
   },
   "beta": {
     "windows": {
-      "version": "1.0.51",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.51-beta/guoyuan-windows.exe",
+      "version": "1.0.52",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.52-beta/guoyuan-windows.exe",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.51-beta/guoyuan-windows.exe",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.52-beta/guoyuan-windows.exe",
         "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
         "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
       ],
       "name": "guoyuan-windows-beta.exe",
-      "size": 68987868,
-      "sha256": "c6fb1ee539fbfe2dd602a4a24b8cf3092521c46b787f475a71b525d2bcd863b9",
-      "notes": "新增站源：赤果（chiguoai.com App 接口）"
+      "size": 68991275,
+      "sha256": "07f280ceb987af544be2a2cca09c6771c7c5d884c90d124ba0ca826d453ef762",
+      "notes": "赤果封面与播放修复；新增花魁站源；更新链路三级容错；删除内网兜底"
     },
     "android": {
       "version": "1.0.32",
