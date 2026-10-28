@@ -30,17 +30,17 @@
   },
   "beta": {
     "windows": {
-      "version": "1.0.52",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.52-beta/guoyuan-windows.exe",
+      "version": "1.0.53",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.53-beta/guoyuan-windows.exe",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.52-beta/guoyuan-windows.exe",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.53-beta/guoyuan-windows.exe",
         "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
         "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
       ],
       "name": "guoyuan-windows-beta.exe",
-      "size": 68991275,
-      "sha256": "07f280ceb987af544be2a2cca09c6771c7c5d884c90d124ba0ca826d453ef762",
-      "notes": "赤果封面与播放修复；新增花魁站源；更新链路三级容错；删除内网兜底"
+      "size": 68984403,
+      "sha256": "5d30d760ea597e45c459a8ad15f7c09e62243cd500580deefe94d4d6b4135c27",
+      "notes": "花魁改为经 VPS 中转，修复国内直连 CloudFront 超时"
     },
     "android": {
       "version": "1.0.33",
