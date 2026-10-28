@@ -43,17 +43,17 @@
       "notes": "新增站源：赤果（chiguoai.com App 接口）"
     },
     "android": {
-      "version": "1.0.31",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.31-beta/guoyuan-android.apk",
+      "version": "1.0.32",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.32-beta/guoyuan-android.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.31-beta/guoyuan-android.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.32-beta/guoyuan-android.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35839318,
-      "sha256": "d2a53a23a5858f81c79c3e3725ddc0f6a57a72d10e897b0a9c1233aa4bfac0ae",
-      "notes": "新增站源：赤果（chiguoai.com App 接口）"
+      "size": 35853234,
+      "sha256": "6b3723c2b41c0fb50a709ca167cf46bb37752e992100252a5b6b1eb06135583d",
+      "notes": "赤果封面与播放修复（CDN Referer 白名单）；新增花魁站源；更新链路三级容错；删除内网兜底"
     }
   }
 }
