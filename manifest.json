@@ -16,31 +16,16 @@
     "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
   },
   "windows": {
-    "version": "1.0.50",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.50/guoyuan-windows.exe",
+    "version": "1.0.55",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55/guoyuan-windows.exe",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.50/guoyuan-windows.exe",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55/guoyuan-windows.exe",
       "https://update.kshao.com/releases/guoyuan-windows.exe",
       "https://update.851224.xyz:8443/releases/guoyuan-windows.exe"
     ],
-    "name": "大王果园-1.0.50-windows-x64-setup.exe",
-    "size": 68974561,
-    "sha256": "e591dd8d62aeff86df4ecdc724a8356330f2dd8788d527a6a6025a9c28dd48e7",
-    "notes": "野果取流修复（新线路自动发现+接口实测）；帝果/黄果视频/皮果 标记维护中"
-  },
-  "beta": {
-    "windows": {
-      "version": "1.0.55",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55-beta/guoyuan-windows.exe",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55-beta/guoyuan-windows.exe",
-        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
-        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
-      ],
-      "name": "guoyuan-windows-beta.exe",
-      "size": 68986468,
-      "sha256": "2418935d84c638673cb4056ac2dca2b1d6ed67884a0495fa1c93547c1703e41e",
-      "notes": "修复花魁首次登录死锁，花魁可正常加载"
-    }
+    "name": "大王果园-1.0.55-windows-x64-setup.exe",
+    "size": 68986468,
+    "sha256": "2418935d84c638673cb4056ac2dca2b1d6ed67884a0495fa1c93547c1703e41e",
+    "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
   }
 }
