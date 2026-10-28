@@ -43,17 +43,17 @@
       "notes": "赤果封面与播放修复；新增花魁站源；更新链路三级容错；删除内网兜底"
     },
     "android": {
-      "version": "1.0.32",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.32-beta/guoyuan-android.apk",
+      "version": "1.0.33",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.33-beta/guoyuan-android.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.32-beta/guoyuan-android.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.33-beta/guoyuan-android.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35853234,
-      "sha256": "6b3723c2b41c0fb50a709ca167cf46bb37752e992100252a5b6b1eb06135583d",
-      "notes": "赤果封面与播放修复（CDN Referer 白名单）；新增花魁站源；更新链路三级容错；删除内网兜底"
+      "size": 35852498,
+      "sha256": "d31eff417490e7398320af8dd416ffbaea0c58a95b5b7cda2ee48c6d561b7271",
+      "notes": "花魁改为经 VPS 中转，修复国内直连 CloudFront 超时"
     }
   }
 }
