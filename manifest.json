@@ -30,17 +30,17 @@
   },
   "beta": {
     "android": {
-      "version": "1.0.41",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.41/guoyuan-android-beta.apk",
+      "version": "1.0.42",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.42/guoyuan-android-beta.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.41/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.42/guoyuan-android-beta.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35868018,
-      "sha256": "7ca790e8223e6adc0037900854949c2c553c682024963a945a19f25e30b7324f",
-      "notes": "勾选的站源，目录、详情、封面和播放都走该代理。"
+      "size": 35866302,
+      "sha256": "e1d03c9caf390453f10bf3e16093b935bb51b24d4062c7846159071ac8d27fc0",
+      "notes": "取消勾选并保存后，该站源单独恢复直连。"
     }
   }
 }
