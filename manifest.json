@@ -1,19 +1,19 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.45",
   "build": 2158,
   "notes": "修复：设置里的「抢先体验新版本」开关无法保存（新增设置未加入本地配置白名单，报的是存储错误但实际与磁盘无关）。",
   "android": {
-    "version": "1.0.38",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38/guoyuan-android.apk",
+    "version": "1.0.45",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.45/guoyuan-android.apk",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38/guoyuan-android.apk",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.45/guoyuan-android.apk",
       "https://update.kshao.com/releases/guoyuan-android.apk",
       "https://update.851224.xyz:8443/releases/guoyuan-android.apk"
     ],
-    "name": "zhenguojian-1.0.38+2179-arm64-v8a.apk",
-    "size": 35871838,
-    "sha256": "4c551705eaf410f204fa075b6463257887dbc678d0f1099cd2fdbec5dde49b0e",
-    "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
+    "name": "zhenguojian-1.0.45+2186-arm64-v8a.apk",
+    "size": 35872970,
+    "sha256": "7f4fc5439f3e07f1ecd19a6f5b66657c523532b765e4abcda2e0b08a7d2f9a97",
+    "notes": "正式版：修复按站源代理（离线下载、多清晰度线路、站源更新都按勾选走代理或直连），设置新增「应用更新」可单独选择走代理或直连。"
   },
   "windows": {
     "version": "1.0.58",
@@ -27,20 +27,5 @@
     "size": 69004893,
     "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
     "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
-  },
-  "beta": {
-    "android": {
-      "version": "1.0.43",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.43/guoyuan-android-beta.apk",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.43/guoyuan-android-beta.apk",
-        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
-        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
-      ],
-      "name": "guoyuan-android-beta.apk",
-      "size": 35867878,
-      "sha256": "2b549a3c9f97f7f478ae401f2259f2d7ea2aa0ec882b5be2134ba52a6593dbec",
-      "notes": "取消勾选恢复原来的直连；勾选的站源才走代理。"
-    }
   }
 }
