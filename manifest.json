@@ -43,17 +43,17 @@
       "notes": "熟果播放修复：媒体改走 VPS 中转（家宽直连 media.shuguo.club 实测 8KB/s，中转 3.7MB/s），整集可完整播放。"
     },
     "android": {
-      "version": "1.0.36",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.36-beta/guoyuan-android-beta.apk",
+      "version": "1.0.37",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.37-beta/guoyuan-android-beta.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.36-beta/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.37-beta/guoyuan-android-beta.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35871558,
-      "sha256": "ff8d168e45e77c986a48f789037037c736eae117cb2de3561fc3d8b00a193d57",
-      "notes": "新增熟果站源：目录、详情、搜索与在线播放（付费集按源站广告解锁流程取流）。"
+      "size": 35871734,
+      "sha256": "5cda8edabecbf6f393ccad72aefa462e2a91a503904af83aac7fa3ce49e2c18f",
+      "notes": "熟果播放修复：媒体改走 VPS 中转（家宽直连 media.shuguo.club 实测 8KB/s，中转 3.7MB/s），整集可完整播放。"
     }
   }
 }
