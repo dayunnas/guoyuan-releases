@@ -30,17 +30,17 @@
   },
   "beta": {
     "windows": {
-      "version": "1.0.56",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.56-beta/guoyuan-windows-beta.exe",
+      "version": "1.0.57",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.57-beta/guoyuan-windows-beta.exe",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.56-beta/guoyuan-windows-beta.exe",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.57-beta/guoyuan-windows-beta.exe",
         "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
         "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
       ],
       "name": "guoyuan-windows-beta.exe",
-      "size": 69002979,
-      "sha256": "bfdb139905d7167968d8366d26c08c1e5f190e06a804ea80e8ec1616cf6a5044",
-      "notes": "新增熟果站源：目录、详情、搜索与在线播放（付费集按源站广告解锁流程取流）。"
+      "size": 68992443,
+      "sha256": "3b147debf08bebe4e23c8dd0742d3ad040b09336ba6db3df14a27251c9e10001",
+      "notes": "熟果播放修复：媒体改走 VPS 中转（家宽直连 media.shuguo.club 实测 8KB/s，中转 3.7MB/s），整集可完整播放。"
     },
     "android": {
       "version": "1.0.36",
