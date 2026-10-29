@@ -16,16 +16,16 @@
     "notes": "正式版：修复按站源代理（离线下载、多清晰度线路、站源更新都按勾选走代理或直连），设置新增「应用更新」可单独选择走代理或直连。"
   },
   "windows": {
-    "version": "1.0.58",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58/guoyuan-windows.exe",
+    "version": "1.0.59",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.59/guoyuan-windows.exe",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58/guoyuan-windows.exe",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.59/guoyuan-windows.exe",
       "https://update.kshao.com/releases/guoyuan-windows.exe",
       "https://update.851224.xyz:8443/releases/guoyuan-windows.exe"
     ],
-    "name": "大王果园-1.0.58-windows-x64-setup.exe",
-    "size": 69004893,
-    "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
-    "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
+    "name": "大王果园-1.0.59-windows-x64-setup.exe",
+    "size": 69000441,
+    "sha256": "c24504ef5fe16e74af65c5c0c4b880e23bad19132c97a188a234eb46987a6621",
+    "notes": "正式版：修复按站源代理（离线下载、多清晰度线路、站源更新都按勾选走代理或直连），设置新增「应用更新」可单独选择走代理或直连。"
   }
 }
