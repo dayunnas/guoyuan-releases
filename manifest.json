@@ -1,19 +1,19 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.38",
   "build": 2158,
   "notes": "修复：设置里的「抢先体验新版本」开关无法保存（新增设置未加入本地配置白名单，报的是存储错误但实际与磁盘无关）。",
   "android": {
-    "version": "1.0.35",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35/guoyuan-android.apk",
+    "version": "1.0.38",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38/guoyuan-android.apk",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.35/guoyuan-android.apk",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38/guoyuan-android.apk",
       "https://update.kshao.com/releases/guoyuan-android.apk",
       "https://update.851224.xyz:8443/releases/guoyuan-android.apk"
     ],
-    "name": "zhenguojian-1.0.35+2175-arm64-v8a.apk",
-    "size": 35856986,
-    "sha256": "1ee2997d03505fb25d91dcba1bd0e4f29408f29115d116f5a1a8e05e97b63028",
-    "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
+    "name": "zhenguojian-1.0.38+2179-arm64-v8a.apk",
+    "size": 35871838,
+    "sha256": "4c551705eaf410f204fa075b6463257887dbc678d0f1099cd2fdbec5dde49b0e",
+    "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
   },
   "windows": {
     "version": "1.0.58",
@@ -27,20 +27,5 @@
     "size": 69004893,
     "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
     "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
-  },
-  "beta": {
-    "android": {
-      "version": "1.0.38",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38-beta/guoyuan-android-beta.apk",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38-beta/guoyuan-android-beta.apk",
-        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
-        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
-      ],
-      "name": "guoyuan-android-beta.apk",
-      "size": 35871838,
-      "sha256": "4c551705eaf410f204fa075b6463257887dbc678d0f1099cd2fdbec5dde49b0e",
-      "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
-    }
   }
 }
