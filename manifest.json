@@ -16,32 +16,19 @@
     "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
   },
   "windows": {
-    "version": "1.0.55",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55/guoyuan-windows.exe",
+    "version": "1.0.58",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58/guoyuan-windows.exe",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.55/guoyuan-windows.exe",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58/guoyuan-windows.exe",
       "https://update.kshao.com/releases/guoyuan-windows.exe",
       "https://update.851224.xyz:8443/releases/guoyuan-windows.exe"
     ],
-    "name": "大王果园-1.0.55-windows-x64-setup.exe",
-    "size": 68986468,
-    "sha256": "2418935d84c638673cb4056ac2dca2b1d6ed67884a0495fa1c93547c1703e41e",
-    "notes": "花魁可正常加载；赤果海报与播放修复；按站源代理；更新链路三级容错"
+    "name": "大王果园-1.0.58-windows-x64-setup.exe",
+    "size": 69004893,
+    "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
+    "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
   },
   "beta": {
-    "windows": {
-      "version": "1.0.58",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58-beta/guoyuan-windows-beta.exe",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.58-beta/guoyuan-windows-beta.exe",
-        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
-        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
-      ],
-      "name": "guoyuan-windows-beta.exe",
-      "size": 69004893,
-      "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
-      "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
-    },
     "android": {
       "version": "1.0.38",
       "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.38-beta/guoyuan-android-beta.apk",
