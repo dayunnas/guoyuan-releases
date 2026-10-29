@@ -27,5 +27,20 @@
     "size": 69004893,
     "sha256": "55f0fe0deb1fbe7feb6a31f77a178846cd56fb4396f4140b4123c688997c028f",
     "notes": "撤销熟果媒体中转，恢复直连。熟果播放受媒体 CDN 路由影响：家宽到 Cloudflare 洛杉矶仅 20-60KB/s，片源码率约 925KB/s，可在 资源设置→代理 中配置代理改善。"
+  },
+  "beta": {
+    "android": {
+      "version": "1.0.39",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.39/guoyuan-android-beta.apk",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.39/guoyuan-android-beta.apk",
+        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
+        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
+      ],
+      "name": "guoyuan-android-beta.apk",
+      "size": 35872054,
+      "sha256": "19dfd88abd24b19225b6533aa93f07e947bcfc176a3fd4fb34e7a895f6e628d4",
+      "notes": "熟果按站源代理补上视频请求的站源标记，视频不再直连。"
+    }
   }
 }
