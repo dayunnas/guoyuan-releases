@@ -30,17 +30,17 @@
   },
   "beta": {
     "android": {
-      "version": "1.0.40",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.40/guoyuan-android-beta.apk",
+      "version": "1.0.41",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.41/guoyuan-android-beta.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.40/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-beta-v1.0.41/guoyuan-android-beta.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35868874,
-      "sha256": "197830fdac4c59718dae48f88056fdddc9339af569823e587162c9c4e7b42fa6",
-      "notes": "网络与资源改为一个代理地址，勾选站源才走代理，并增加代理测试。"
+      "size": 35868018,
+      "sha256": "7ca790e8223e6adc0037900854949c2c553c682024963a945a19f25e30b7324f",
+      "notes": "勾选的站源，目录、详情、封面和播放都走该代理。"
     }
   }
 }
