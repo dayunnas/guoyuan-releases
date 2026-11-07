@@ -27,5 +27,20 @@
     "size": 69000441,
     "sha256": "c24504ef5fe16e74af65c5c0c4b880e23bad19132c97a188a234eb46987a6621",
     "notes": "正式版：修复按站源代理（离线下载、多清晰度线路、站源更新都按勾选走代理或直连），设置新增「应用更新」可单独选择走代理或直连。"
+  },
+  "beta": {
+    "windows": {
+      "version": "1.0.63",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.63-beta/guoyuan-windows-beta.exe",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.63-beta/guoyuan-windows-beta.exe",
+        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
+        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
+      ],
+      "name": "guoyuan-windows-beta.exe",
+      "size": 69028795,
+      "sha256": "4de8b3545ab3d8c7145e0884867f3980b441df8943f2d1cf9bade6e0f763e05e",
+      "notes": "红果 1080p 测试版：换上完整播放签名（X-Gorgon 8404 + 真算 X-Argus/X-Ladon + Medusa），App 单播线路恢复，实测 1080p/10 档（抽样 8 部 6 部 1080p）；网页 720p DASH 与 360p 直连保留兜底。重点验证：1080p 起播（该轨 HEVC，黑屏就切 720P 并回报机型）、付费集、下载。"
+    }
   }
 }
