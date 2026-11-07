@@ -41,6 +41,19 @@
       "size": 35918294,
       "sha256": "f4e56c098ebdcf4011aa62c52d9fbc6a338e31e70b3829fb434e3dabf1891aa7",
       "notes": "花魁金币集标注：分集带金币标记与价格，详情页说明全剧需解锁，点金币集给明确提示；免费集照常播放。不做解锁。arm64-v8a。"
+    },
+    "windows": {
+      "version": "1.0.66",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.66-beta/guoyuan-windows-beta.exe",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.66-beta/guoyuan-windows-beta.exe",
+        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
+        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
+      ],
+      "name": "guoyuan-windows-beta.exe",
+      "size": 69040310,
+      "sha256": "0615b24923bbac96f6adda5f5a12af6664c5ec96929b48412ffb846281755d0a",
+      "notes": "花魁金币集标注：分集带金币标记与价格，详情页说明全剧需解锁，点金币集给明确提示；免费集照常播放。不做解锁。"
     }
   }
 }
