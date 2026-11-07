@@ -16,31 +16,16 @@
     "notes": "正式版 1.0.65：红果 App 线路 1080p（X-Gorgon 8404 + 真算 X-Argus/X-Ladon + Medusa 完整播放签名），下载完成即解密为明文 mp4，老下载首次本地播放自动补解；下载入队提示修复（查看按钮在页面关闭后仍可用、8 秒自动消失、连续入队不堆叠）。arm64-v8a。"
   },
   "windows": {
-    "version": "1.0.59",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.59/guoyuan-windows.exe",
+    "version": "1.0.65",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/windows-v1.0.65/guoyuan-windows.exe",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.59/guoyuan-windows.exe",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/windows-v1.0.65/guoyuan-windows.exe",
       "https://update.kshao.com/releases/guoyuan-windows.exe",
       "https://update.851224.xyz:8443/releases/guoyuan-windows.exe"
     ],
-    "name": "大王果园-1.0.59-windows-x64-setup.exe",
-    "size": 69000441,
-    "sha256": "c24504ef5fe16e74af65c5c0c4b880e23bad19132c97a188a234eb46987a6621",
-    "notes": "正式版：修复按站源代理（离线下载、多清晰度线路、站源更新都按勾选走代理或直连），设置新增「应用更新」可单独选择走代理或直连。"
-  },
-  "beta": {
-    "windows": {
-      "version": "1.0.65",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.65-beta/guoyuan-windows-beta-1065.exe",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.65-beta/guoyuan-windows-beta-1065.exe",
-        "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
-        "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
-      ],
-      "name": "guoyuan-windows-beta.exe",
-      "size": 69028150,
-      "sha256": "fbd0455cc3d9df3cf9fa9e5c6b132586e9fb9551640b1af06b1700382e82b095",
-      "notes": "修复下载入队提示：「查看」在页面关闭后仍能跳转下载页，提示 8 秒自动消失并带 9 秒兜底定时器，连续入队不堆叠。含 1.0.64 的下载落盘解密与 1080p。"
-    }
+    "name": "大王果园-1.0.65-windows-x64-setup.exe",
+    "size": 69028150,
+    "sha256": "fbd0455cc3d9df3cf9fa9e5c6b132586e9fb9551640b1af06b1700382e82b095",
+    "notes": "正式版 1.0.65：红果 App 线路 1080p（完整播放签名 X-Gorgon 8404 + X-Argus/X-Ladon + Medusa），下载完成即解密为明文 mp4，老下载首次本地播放自动补解；下载入队提示修复（查看按钮在页面关闭后仍可用、8 秒自动消失、连续入队不堆叠）。"
   }
 }
