@@ -41,6 +41,19 @@
       "size": 69038705,
       "sha256": "792407483fa56ffdedc78cb8082b6d01518e664f38d9653a75003871f1415cba",
       "notes": "修下载后本地播放黑屏无声：红果 App 线路是 CENC 加密 mp4，下载完成时就地解密（stsz/stco/stsc/senc/tenc + AES-CTR 逐样本，含 subsample 分段），磁盘上是明文 mp4；老版本下载的分集第一次本地播放时自动补解，无需重下。1080p 主轨仍为 HEVC。"
+    },
+    "android": {
+      "version": "1.0.64",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.64-beta/guoyuan-android-beta.apk",
+      "urls": [
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.64-beta/guoyuan-android-beta.apk",
+        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
+        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
+      ],
+      "name": "guoyuan-android-beta.apk",
+      "size": 35914342,
+      "sha256": "9a5da5a3291c7487f8dc896adc6d0283a03ef1f76d9807b4c9326f72bae0c2f6",
+      "notes": "与 Windows 1.0.64 同步：红果下载完成即解密成明文 mp4，老下载首次本地播放自动补解；1080p 优先（HEVC）。arm64-v8a。"
     }
   }
 }
