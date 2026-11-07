@@ -30,17 +30,17 @@
   },
   "beta": {
     "windows": {
-      "version": "1.0.64",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.64-beta/guoyuan-windows-beta-1064.exe",
+      "version": "1.0.65",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.65-beta/guoyuan-windows-beta-1065.exe",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.64-beta/guoyuan-windows-beta-1064.exe",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.65-beta/guoyuan-windows-beta-1065.exe",
         "https://update.kshao.com/releases/guoyuan-windows-beta.exe",
         "https://update.851224.xyz:8443/releases/guoyuan-windows-beta.exe"
       ],
       "name": "guoyuan-windows-beta.exe",
-      "size": 69038705,
-      "sha256": "792407483fa56ffdedc78cb8082b6d01518e664f38d9653a75003871f1415cba",
-      "notes": "修下载后本地播放黑屏无声：红果 App 线路是 CENC 加密 mp4，下载完成时就地解密（stsz/stco/stsc/senc/tenc + AES-CTR 逐样本，含 subsample 分段），磁盘上是明文 mp4；老版本下载的分集第一次本地播放时自动补解，无需重下。1080p 主轨仍为 HEVC。"
+      "size": 69028150,
+      "sha256": "fbd0455cc3d9df3cf9fa9e5c6b132586e9fb9551640b1af06b1700382e82b095",
+      "notes": "修复下载入队提示：「查看」在页面关闭后仍能跳转下载页，提示 8 秒自动消失并带 9 秒兜底定时器，连续入队不堆叠。含 1.0.64 的下载落盘解密与 1080p。"
     },
     "android": {
       "version": "1.0.64",
