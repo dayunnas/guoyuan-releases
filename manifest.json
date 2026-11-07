@@ -43,17 +43,17 @@
       "notes": "修复下载入队提示：「查看」在页面关闭后仍能跳转下载页，提示 8 秒自动消失并带 9 秒兜底定时器，连续入队不堆叠。含 1.0.64 的下载落盘解密与 1080p。"
     },
     "android": {
-      "version": "1.0.64",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.64-beta/guoyuan-android-beta.apk",
+      "version": "1.0.65",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.65-beta/guoyuan-android-beta-1065.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.64-beta/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.65-beta/guoyuan-android-beta-1065.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35914342,
-      "sha256": "9a5da5a3291c7487f8dc896adc6d0283a03ef1f76d9807b4c9326f72bae0c2f6",
-      "notes": "与 Windows 1.0.64 同步：红果下载完成即解密成明文 mp4，老下载首次本地播放自动补解；1080p 优先（HEVC）。arm64-v8a。"
+      "size": 35914854,
+      "sha256": "54d13edc4dadfd6a6ff68ddc73d124dbb4147f772599410a32e83fcbd5b45a59",
+      "notes": "与 Windows 1.0.65 同步：入队提示修复 + 下载落盘解密。arm64-v8a。"
     }
   }
 }
