@@ -30,17 +30,17 @@
   },
   "beta": {
     "android": {
-      "version": "1.0.66",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.66-beta/guoyuan-android-beta.apk",
+      "version": "1.0.69",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.69-beta/guoyuan-android-beta.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.66-beta/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.69-beta/guoyuan-android-beta.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35918294,
-      "sha256": "f4e56c098ebdcf4011aa62c52d9fbc6a338e31e70b3829fb434e3dabf1891aa7",
-      "notes": "花魁金币集标注：分集带金币标记与价格，详情页说明全剧需解锁，点金币集给明确提示；免费集照常播放。不做解锁。arm64-v8a。"
+      "size": 35926382,
+      "sha256": "74b834ee3c04f3b72c4e438753e29001f6bdd2befc078b31a616ddd42108447f",
+      "notes": "红果 App 取流签名器 x-medusa 自研完成：修复「部分集无法播放」，整剧每集均可取 1080p（抽样 25/25）。"
     },
     "windows": {
       "version": "1.0.66",
