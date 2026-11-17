@@ -1,19 +1,19 @@
 {
-  "version": "1.0.65",
+  "version": "1.0.70",
   "build": 2158,
   "notes": "修复：设置里的「抢先体验新版本」开关无法保存（新增设置未加入本地配置白名单，报的是存储错误但实际与磁盘无关）。",
   "android": {
-    "version": "1.0.65",
-    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.65/guoyuan-android.apk",
+    "version": "1.0.70",
+    "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70/guoyuan-android.apk",
     "urls": [
-      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.65/guoyuan-android.apk",
+      "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70/guoyuan-android.apk",
       "https://update.kshao.com/releases/guoyuan-android.apk",
       "https://update.851224.xyz:8443/releases/guoyuan-android.apk"
     ],
-    "name": "zhenguojian-1.0.65+2193-arm64-v8a.apk",
-    "size": 35914854,
-    "sha256": "54d13edc4dadfd6a6ff68ddc73d124dbb4147f772599410a32e83fcbd5b45a59",
-    "notes": "正式版 1.0.65：红果 App 线路 1080p（X-Gorgon 8404 + 真算 X-Argus/X-Ladon + Medusa 完整播放签名），下载完成即解密为明文 mp4，老下载首次本地播放自动补解；下载入队提示修复（查看按钮在页面关闭后仍可用、8 秒自动消失、连续入队不堆叠）。arm64-v8a。"
+    "name": "zhenguojian-1.0.70+2198-arm64-v8a.apk",
+    "size": 35926394,
+    "sha256": "17b48e1b14a2f27db7d2c69e1a937507dc9b50940c3e529150713950bac85d9a",
+    "notes": "真果鉴（全果源）正式版：红果 App 取流签名器 x-medusa 自研完成，修复「部分集无法播放」，整剧每集均可取 1080p。"
   },
   "windows": {
     "version": "1.0.65",
@@ -29,19 +29,6 @@
     "notes": "正式版 1.0.65：红果 App 线路 1080p（完整播放签名 X-Gorgon 8404 + X-Argus/X-Ladon + Medusa），下载完成即解密为明文 mp4，老下载首次本地播放自动补解；下载入队提示修复（查看按钮在页面关闭后仍可用、8 秒自动消失、连续入队不堆叠）。"
   },
   "beta": {
-    "android": {
-      "version": "1.0.70",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70-beta/guoyuan-android-beta.apk",
-      "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70-beta/guoyuan-android-beta.apk",
-        "https://update.kshao.com/releases/guoyuan-android-beta.apk",
-        "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
-      ],
-      "name": "guoyuan-android-beta.apk",
-      "size": 35926394,
-      "sha256": "17b48e1b14a2f27db7d2c69e1a937507dc9b50940c3e529150713950bac85d9a",
-      "notes": "真果鉴（全果源）。红果 App 取流签名器 x-medusa 自研完成：修复「部分集无法播放」，整剧每集均可取 1080p（抽样 25/25）。"
-    },
     "windows": {
       "version": "1.0.66",
       "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/win-v1.0.66-beta/guoyuan-windows-beta.exe",
