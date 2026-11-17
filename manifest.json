@@ -30,17 +30,17 @@
   },
   "beta": {
     "android": {
-      "version": "1.0.69",
-      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.69-beta/guoyuan-android-beta.apk",
+      "version": "1.0.70",
+      "url": "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70-beta/guoyuan-android-beta.apk",
       "urls": [
-        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.69-beta/guoyuan-android-beta.apk",
+        "https://github.com/dayunnas/guoyuan-releases/releases/download/android-v1.0.70-beta/guoyuan-android-beta.apk",
         "https://update.kshao.com/releases/guoyuan-android-beta.apk",
         "https://update.851224.xyz:8443/releases/guoyuan-android-beta.apk"
       ],
       "name": "guoyuan-android-beta.apk",
-      "size": 35926382,
-      "sha256": "74b834ee3c04f3b72c4e438753e29001f6bdd2befc078b31a616ddd42108447f",
-      "notes": "红果 App 取流签名器 x-medusa 自研完成：修复「部分集无法播放」，整剧每集均可取 1080p（抽样 25/25）。"
+      "size": 35926394,
+      "sha256": "17b48e1b14a2f27db7d2c69e1a937507dc9b50940c3e529150713950bac85d9a",
+      "notes": "真果鉴（全果源）。红果 App 取流签名器 x-medusa 自研完成：修复「部分集无法播放」，整剧每集均可取 1080p（抽样 25/25）。"
     },
     "windows": {
       "version": "1.0.66",
